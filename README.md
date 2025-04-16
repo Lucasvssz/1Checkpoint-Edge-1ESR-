@@ -1,4 +1,4 @@
-Descrição do Projeto
+<h1>Descrição do Projeto</h1>
 Este projeto tem como objetivo o desenvolvimento de um sistema de monitoramento de luminosidade para uma vinheria, garantindo que os vinhos sejam armazenados em condições ideais de iluminação, já que à luz excessiva pode comprometer a qualidade dos vinhos, por isso é essencial manter os níveis de luminosidade sob controle.
 
 Níveis de luminosidade:
@@ -43,6 +43,9 @@ Biblioteca padrão do Arduino
 
 Como Reproduzir o Projeto
 Acesse o Tinkercad:
+
+
+![Recrie](./images/imagem.jpg)
 
 Crie uma conta ou entre em sua conta existente em: tinkercad.com
 
