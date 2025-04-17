@@ -1,7 +1,7 @@
-<h1>Descrição do Projeto</h1>
+<h1>Projeto Vinheria Agnello</h1>
 Este projeto tem como objetivo o desenvolvimento de um sistema de monitoramento de luminosidade para uma vinheria, garantindo que os vinhos sejam armazenados em condições ideais de iluminação, já que à luz excessiva pode comprometer a qualidade dos vinhos, por isso é essencial manter os níveis de luminosidade sob controle.
 
-Níveis de luminosidade:
+<h2>Níveis de luminosidade e sistema de aviso<h2>
 
 LED Verde: Nível de luminosidade OK.
 
@@ -12,7 +12,7 @@ LED Vermelho: Nível crítico ou problema.
 Buzzer: Ativado por 3 segundos quando a luminosidade estiver em nível de alerta.
 
 
-Dependências Hardware
+<h2>Componentes Utilizados</h2>
 
 Arduino Uno
 
@@ -34,16 +34,11 @@ Jumpers e Protoboard
 
 
 
-Software
-Plataforma Tinkercad
-
-Biblioteca padrão do Arduino
+<h3>Plataforma</h3>
 
 
 
-Como Reproduzir o Projeto
-Acesse o Tinkercad:
-
+<h2>Como Reproduzir o Projeto</h2>
 
 ![Recrie](./images/imagem.jpg)
 
